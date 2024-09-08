@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700469873879",
+    "project_id": "banha-38d61",
+    "storage_bucket": "banha-38d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700469873879:android:f7a710c16314f8383ef492",
+        "android_client_info": {
+          "package_name": "com.example.banha4_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDG1cg3LVTuDQQvPLdd9x4AcpcPZZOa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
